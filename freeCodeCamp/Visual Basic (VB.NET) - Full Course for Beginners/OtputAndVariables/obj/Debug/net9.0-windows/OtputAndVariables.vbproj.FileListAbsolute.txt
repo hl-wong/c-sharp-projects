@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\bin\Debug\net9.0-windows\OtputAndVariables.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\bin\Debug\net9.0-windows\OtputAndVariables.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\bin\Debug\net9.0-windows\OtputAndVariables.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\bin\Debug\net9.0-windows\OtputAndVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\bin\Debug\net9.0-windows\OtputAndVariables.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\refint\OtputAndVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\OtputAndVariables.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\OtputAndVariables\obj\Debug\net9.0-windows\ref\OtputAndVariables.dll

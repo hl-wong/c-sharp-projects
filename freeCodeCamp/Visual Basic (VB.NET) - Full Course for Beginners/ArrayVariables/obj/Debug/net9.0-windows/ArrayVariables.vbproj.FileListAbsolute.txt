@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\bin\Debug\net9.0-windows\ArrayVariables.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\bin\Debug\net9.0-windows\ArrayVariables.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\bin\Debug\net9.0-windows\ArrayVariables.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\bin\Debug\net9.0-windows\ArrayVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\bin\Debug\net9.0-windows\ArrayVariables.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\refint\ArrayVariables.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ArrayVariables.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ArrayVariables\obj\Debug\net9.0-windows\ref\ArrayVariables.dll

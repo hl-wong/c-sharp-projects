@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\bin\Debug\net9.0-windows\Arithmetic.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\bin\Debug\net9.0-windows\Arithmetic.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\bin\Debug\net9.0-windows\Arithmetic.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\bin\Debug\net9.0-windows\Arithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\bin\Debug\net9.0-windows\Arithmetic.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\refint\Arithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\Arithmetic.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\Arithmetic\obj\Debug\net9.0-windows\ref\Arithmetic.dll

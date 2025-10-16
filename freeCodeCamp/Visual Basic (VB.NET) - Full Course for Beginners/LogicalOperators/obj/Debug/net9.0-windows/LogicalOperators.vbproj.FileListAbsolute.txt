@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\bin\Debug\net9.0-windows\LogicalOperators.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\bin\Debug\net9.0-windows\LogicalOperators.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\bin\Debug\net9.0-windows\LogicalOperators.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\bin\Debug\net9.0-windows\LogicalOperators.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\bin\Debug\net9.0-windows\LogicalOperators.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\refint\LogicalOperators.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\LogicalOperators.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LogicalOperators\obj\Debug\net9.0-windows\ref\LogicalOperators.dll

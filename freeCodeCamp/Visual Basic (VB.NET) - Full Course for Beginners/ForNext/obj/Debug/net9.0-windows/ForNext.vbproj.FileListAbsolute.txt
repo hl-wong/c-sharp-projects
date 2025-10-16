@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\bin\Debug\net9.0-windows\ForNext.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\bin\Debug\net9.0-windows\ForNext.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\bin\Debug\net9.0-windows\ForNext.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\bin\Debug\net9.0-windows\ForNext.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\bin\Debug\net9.0-windows\ForNext.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\refint\ForNext.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ForNext.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ForNext\obj\Debug\net9.0-windows\ref\ForNext.dll

@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\bin\Debug\net9.0-windows\ComplexArithmetic.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\bin\Debug\net9.0-windows\ComplexArithmetic.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\bin\Debug\net9.0-windows\ComplexArithmetic.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\bin\Debug\net9.0-windows\ComplexArithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\bin\Debug\net9.0-windows\ComplexArithmetic.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\refint\ComplexArithmetic.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ComplexArithmetic.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\ComplexArithmetic\obj\Debug\net9.0-windows\ref\ComplexArithmetic.dll

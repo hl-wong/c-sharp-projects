@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\bin\Debug\net9.0-windows\LinearSearch.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\bin\Debug\net9.0-windows\LinearSearch.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\bin\Debug\net9.0-windows\LinearSearch.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\bin\Debug\net9.0-windows\LinearSearch.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\bin\Debug\net9.0-windows\LinearSearch.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\refint\LinearSearch.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\LinearSearch.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\LinearSearch\obj\Debug\net9.0-windows\ref\LinearSearch.dll

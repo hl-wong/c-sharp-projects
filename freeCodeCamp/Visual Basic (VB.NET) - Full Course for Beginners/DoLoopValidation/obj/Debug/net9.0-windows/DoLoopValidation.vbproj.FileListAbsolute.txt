@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\bin\Debug\net9.0-windows\DoLoopValidation.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\bin\Debug\net9.0-windows\DoLoopValidation.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\bin\Debug\net9.0-windows\DoLoopValidation.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\bin\Debug\net9.0-windows\DoLoopValidation.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\bin\Debug\net9.0-windows\DoLoopValidation.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\refint\DoLoopValidation.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\DoLoopValidation.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\DoLoopValidation\obj\Debug\net9.0-windows\ref\DoLoopValidation.dll

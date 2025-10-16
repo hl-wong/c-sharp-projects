@@ -1,0 +1,17 @@
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\bin\Debug\net9.0-windows\CollectUserInput.exe
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\bin\Debug\net9.0-windows\CollectUserInput.deps.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\bin\Debug\net9.0-windows\CollectUserInput.runtimeconfig.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\bin\Debug\net9.0-windows\CollectUserInput.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\bin\Debug\net9.0-windows\CollectUserInput.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.Form1.resources
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.vbproj.GenerateResource.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.AssemblyInfo.vb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.vbproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.sourcelink.json
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\refint\CollectUserInput.dll
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.pdb
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\CollectUserInput.genruntimeconfig.cache
+C:\Projects\Visual Studio\freeCodeCamp\Visual Basic (VB.NET) - Full Course for Beginners\CollectUserInput\obj\Debug\net9.0-windows\ref\CollectUserInput.dll
